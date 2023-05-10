@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proteklo i tekuće vrijeme", "Proteklo i tekuće vrijeme.csproj", "{FF8C110B-2374-47F4-B445-574A297971D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF8C110B-2374-47F4-B445-574A297971D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF8C110B-2374-47F4-B445-574A297971D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF8C110B-2374-47F4-B445-574A297971D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF8C110B-2374-47F4-B445-574A297971D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5520A27D-F3AC-4E5B-B0AB-AB2AD3673C25}
+	EndGlobalSection
+EndGlobal

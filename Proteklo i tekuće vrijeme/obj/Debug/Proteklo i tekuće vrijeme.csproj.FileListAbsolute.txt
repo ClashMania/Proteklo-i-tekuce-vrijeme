@@ -1,0 +1,11 @@
+C:\Users\heist\Documents\Code\Proteklo i tekuće vrijeme\bin\Debug\Proteklo i tekuće vrijeme.exe.config
+C:\Users\heist\Documents\Code\Proteklo i tekuće vrijeme\bin\Debug\Proteklo i tekuće vrijeme.exe
+C:\Users\heist\Documents\Code\Proteklo i tekuće vrijeme\bin\Debug\Proteklo i tekuće vrijeme.pdb
+C:\Users\heist\Documents\Code\Proteklo i tekuće vrijeme\obj\Debug\Proteklo i tekuće vrijeme.csproj.AssemblyReference.cache
+C:\Users\heist\Documents\Code\Proteklo i tekuće vrijeme\obj\Debug\Proteklo i tekuće vrijeme.csproj.SuggestedBindingRedirects.cache
+C:\Users\heist\Documents\Code\Proteklo i tekuće vrijeme\obj\Debug\Proteklo_i_tekuće_vrijeme.Form1.resources
+C:\Users\heist\Documents\Code\Proteklo i tekuće vrijeme\obj\Debug\Proteklo_i_tekuće_vrijeme.Properties.Resources.resources
+C:\Users\heist\Documents\Code\Proteklo i tekuće vrijeme\obj\Debug\Proteklo i tekuće vrijeme.csproj.GenerateResource.cache
+C:\Users\heist\Documents\Code\Proteklo i tekuće vrijeme\obj\Debug\Proteklo i tekuće vrijeme.csproj.CoreCompileInputs.cache
+C:\Users\heist\Documents\Code\Proteklo i tekuće vrijeme\obj\Debug\Proteklo i tekuće vrijeme.exe
+C:\Users\heist\Documents\Code\Proteklo i tekuće vrijeme\obj\Debug\Proteklo i tekuće vrijeme.pdb
